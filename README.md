@@ -16,7 +16,9 @@ OKAY MAJOR INFO HERE, READ BEFORE YOU TRY ANYTHING:
 
 if you have any more questions, please contact us at:
 
-Farhaan Alam (+91 8486468159) (rafikul69@gmail.com)
+- Farhaan Alam (+91 8486468159) (rafikul69@gmail.com)
+- Ansh (+91 9131454766) (ansh.tkn@gmail.com)
+
 others contact info de do bey
 
 
