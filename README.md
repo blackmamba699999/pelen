@@ -7,6 +7,19 @@ An RC plane inspired from [Mitsubishi A6M Zero](https://en.wikipedia.org/wiki/Mi
 - Gcodes for 3-D printing: `A6M/Plans/fin_v2/3d_print_parts`
 - Wing Measurements: `A6M/Plans/Wing Measurements`
 
+
+OKAY MAJOR INFO HERE, READ BEFORE YOU TRY ANYTHING:
+
+1. The design will work very well if you can somehow manage to get it printed with LW PLA (lightweight PLA). Try asking the IC for it, they may have it.
+2. The current design is very very stable in itself, but the weight of the whole bird ended up being a lot more than what canbe safely hand launched. Mind you this will still fly, but you will need to either catapult it, throw it down a hill, or put landing gear on it. The estimated stall speed using Prandtl's lifting line theory for the current mass is about 10 m/s.
+3. The tailplane was designed in haste so it is not as optimised as the rest of this bird when it comes to mass, so it ended up bein about 100-200 grams more than it needed to be. Please consider designing similar structures on the insides of the tailplane as there is inside the main wings, for effective weight reduction.
+
+if you have any more questions, please contact us at:
+
+Farhaan Alam (+91 8486468159) (rafikul69@gmail.com)
+others contact info de do bey
+
+
 ## Left Wing Sections
 Sections of the left wing:
 
